@@ -36,9 +36,7 @@ Tenho 31 anos, moro em Campo Grande/MS e sou apaixonado por programação! No un
 
 </br>
 
-<style scoped>
-      .tecnologia { background-color: white; }
-</style>
+
 
 <div class="tecnologia" align="center" >
  
