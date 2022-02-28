@@ -71,4 +71,4 @@ Tenho 31 anos, moro em Campo Grande/MS e sou apaixonado por programação! No un
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wellysonlourenco&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wellysonlourenco&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>s
+</p>
