@@ -34,7 +34,7 @@ Tenho 31 anos, moro em Campo Grande/MS e sou apaixonado por programação! No un
 
 </br>
 
-<div align="center" style= "padding:5px;"}>
+<div align="center" style= "padding:5px; background-color: white;"}>
 ### 🖥️ Tecnologias e Ferramentas: 
 </br>
 <!--<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">-->
