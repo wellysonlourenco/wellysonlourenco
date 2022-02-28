@@ -1,8 +1,10 @@
-<img align="right" width="200px" style="margin-top:18px; margin-right: 51px;" src="https://i.ibb.co/M24n3XX/perfil.png">
+<img align="right" width="200px" style="margin-top:18px; margin-right: 51px; background-color: white" src="https://i.ibb.co/M24n3XX/perfil.png">
 
 </br>
 ### Hello, World 🌎 
 </br>
+
+
 
 
 <div dsplay="inline-block ">
@@ -34,7 +36,12 @@ Tenho 31 anos, moro em Campo Grande/MS e sou apaixonado por programação! No un
 
 </br>
 
-<div align="center" style= "padding:5px; background-color: white;"}>
+<style scoped>
+      .tecnologia { background-color: white; }
+</style>
+
+<div class="tecnologia" align="center" >
+ 
 ### 🖥️ Tecnologias e Ferramentas: 
 </br>
 <!--<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">-->
@@ -60,7 +67,7 @@ Tenho 31 anos, moro em Campo Grande/MS e sou apaixonado por programação! No un
  <p align="left">🎓 Formado em Analise e Desenvolvimento de Sistemas (Estacio de Sá) ;</p>
  <p align="left">📚 Estou Especializando em Engenharia de Software (<a href="https://site.ucdb.br/">UCDB</a>);</p>
  <p align="left">📷 Compartilho minhas experiências, estudos no <a href="https://www.instagram.com/wellysonlourenco">Instagram</a> e no repositório <a href="https://github.com/wellysonlourenco?tab=repositories">Github</a>. Segue lá e vem bater um papo!</p>
-<!-- <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>-->
+ <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
 </div>
 </br>
 </br>
