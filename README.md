@@ -81,5 +81,3 @@ Tenho 31 anos, moro em Campo Grande/MS e sou apaixonado por programação! No un
 </a>
 </p>
 <br/>
-
-![Snake animation](https://github.com/wellysonlourenco/wellysonlourenco/blob/output/github-contribution-grid-snake.svg)
