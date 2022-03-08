@@ -1,4 +1,3 @@
-<img align="right" width="200px" style="margin-top:18px; margin-right: 51px; background-color: white" src="https://i.ibb.co/M24n3XX/perfil.png">
 
 </br>
 ### Hello, World 🌎 
