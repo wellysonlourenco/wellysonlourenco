@@ -30,7 +30,6 @@
 
 ## Hello, Devs!!
 
-Tenho 31 anos, moro em Campo Grande/MS e sou apaixonado por programação! No universo da programação desde 2015, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! 🚀
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
