@@ -63,10 +63,7 @@
 <div display="inline-block">
  <p align="left">📚 Faço Sistemas para internet (<a href="https://www.ifms.edu.br/campi/campus-campo-grande/cursos/graduacao/sistemas-para-internet">TSI</a> -  <a href="https://www.ifms.edu.br/">IFMS</a>) ;
 <!--<img src="https://i.ibb.co/3sNMDtV/Instituto-Federal-de-Mato-Grosso-do-Sul.png"  title="IFMS" width="60px"></img></p>-->
- <p align="left">🎓 Analise e Desenvolvimento de Sistemas (Estacio de Sá) ;</p>
- <p align="left">📚 Estou Especializando em Engenharia de Software (<a href="https://site.ucdb.br/">UCDB</a>);</p>
- <p align="left">📷 Compartilho minhas experiências, estudos no <a href="https://www.instagram.com/wellysonlourenco">Instagram</a> e no repositório <a href="https://github.com/wellysonlourenco?tab=repositories">Github</a>. Segue lá e vem bater um papo!</p>
-<!-- <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p> -->
+<p align="left">📚 Engenharia de Software (<a href="https://site.ucdb.br/">UCDB</a>);</p>
 </div>
 </br>
 </br>
