@@ -10,16 +10,7 @@
  
  <h1 align="left"><i>I’m  </i><u> Wéllyson de lourenço</u></h1>
  
- 
- <a href="https://www.instagram.com/wellysonlourenco">
-    <img align="left" width="40px" src="https://i.ibb.co/VV39HFB/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://www.linkedin.com/in/wellysonlourenco/">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align:top;">
-  </a>
-   <a href="http://wellysonlourenco.github.io/">
-    <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="instagram" style="vertical-align:top;">
-  </a> 
+
 
 </div>
 
